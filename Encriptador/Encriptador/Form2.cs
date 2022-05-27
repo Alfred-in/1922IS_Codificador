@@ -46,6 +46,9 @@ namespace Encriptador
                 }
 
             }
+              button2.Enabled = true;
+
+            }
             catch (Exception ex)
             {
                 MessageBox.Show("Ingresa texto");
@@ -56,18 +59,29 @@ namespace Encriptador
 
         private void button2_Click_1(object sender, EventArgs e)
         {
-            cr.decifrar();
-            cr.convertirALetra();
-            label3.Text = cr.listaUnida;
-            for (int i = 0; i < cr.numeroVectores; i++)
+            try
             {
-                richTextBox2.Text += "[";
-                for (int j = 0; j < 3; j++)
-                {
-                    richTextBox2.Text += $" {cr.mensajeDecifrado[i][j]} ";
-                }
-                richTextBox2.Text += "] \n";
+                
+                    cr.decifrar();
+                    cr.convertirALetra();
+                    label3.Text = cr.listaUnida;
+                    for (int i = 0; i < cr.numeroVectores; i++)
+                    {
+                        richTextBox2.Text += "[";
+                        for (int j = 0; j < 3; j++)
+                        {
+                            richTextBox2.Text += $" {cr.mensajeDecifrado[i][j]} ";
+                        }
+                        richTextBox2.Text += "] \n";
+                    }
+                
             }
+            catch (Exception ex)
+            {
+
+                MessageBox.Show("Ingresa texto y codifica primero");
+            }
+           
         }
     }
 }
