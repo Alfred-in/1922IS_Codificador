@@ -1,0 +1,12 @@
+C:\Users\mrsrw\source\repos\Encriptador\Encriptador\bin\Debug\Encriptador.exe.config
+C:\Users\mrsrw\source\repos\Encriptador\Encriptador\bin\Debug\Encriptador.exe
+C:\Users\mrsrw\source\repos\Encriptador\Encriptador\bin\Debug\Encriptador.pdb
+C:\Users\mrsrw\source\repos\Encriptador\Encriptador\obj\Debug\Encriptador.csproj.AssemblyReference.cache
+C:\Users\mrsrw\source\repos\Encriptador\Encriptador\obj\Debug\Encriptador.csproj.SuggestedBindingRedirects.cache
+C:\Users\mrsrw\source\repos\Encriptador\Encriptador\obj\Debug\Encriptador.Form1.resources
+C:\Users\mrsrw\source\repos\Encriptador\Encriptador\obj\Debug\Encriptador.Properties.Resources.resources
+C:\Users\mrsrw\source\repos\Encriptador\Encriptador\obj\Debug\Encriptador.csproj.GenerateResource.cache
+C:\Users\mrsrw\source\repos\Encriptador\Encriptador\obj\Debug\Encriptador.csproj.CoreCompileInputs.cache
+C:\Users\mrsrw\source\repos\Encriptador\Encriptador\obj\Debug\Encriptador.exe
+C:\Users\mrsrw\source\repos\Encriptador\Encriptador\obj\Debug\Encriptador.pdb
+C:\Users\mrsrw\source\repos\Encriptador\Encriptador\obj\Debug\Encriptador.Form2.resources
